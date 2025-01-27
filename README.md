@@ -12,7 +12,7 @@ This project contains:
 1. Create/activate a virtual environment (optional):
    ```sh
    python3 -m venv venv
-   source venv/bin/activate  # Linux/Mac
+   source venv/bin/activate
    ```
 2. Install dependencies:
    ```sh
